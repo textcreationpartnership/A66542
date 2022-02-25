@@ -1,0 +1,271 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Panaletha plazol'oga. Or the deplumation of Mrs Anne Gibbs of those furtivous perfections whereof she was supposed a proprietary, by envious fame. Deplored by her (once) admirer, R.W.</title>
+            <author>Walden, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66542</idno>
+            <idno type="STC">Wing W289</idno>
+            <idno type="STC">ESTC R219292</idno>
+            <idno type="EEBO-CITATION">99830782</idno>
+            <idno type="PROQUEST">99830782</idno>
+            <idno type="VID">35236</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66542)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35236)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1878:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Panaletha plazol'oga. Or the deplumation of Mrs Anne Gibbs of those furtivous perfections whereof she was supposed a proprietary, by envious fame. Deplored by her (once) admirer, R.W.</title>
+                  <author>Walden, Richard.</author>
+               </titleStmt>
+               <extent>[2], 3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed anno virginis parturientis, 1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>R.W. = Richard Walden.</note>
+                  <note>The first two words on the title page are Greek.</note>
+                  <note>Place of publication from Madan.</note>
+                  <note>In verse.</note>
+                  <note>Madan --- "The two pieces next above seem to be one octavo sheet. The former (Wing W289) is a sorrowful complaint that mrs. Gibbs was no better than she should be, and the latter (Wing 288) a palinode confessing that the writer was mistaken in accusing the actress, who is now restored to favour.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Anne Gibbs = Anne Shadwell, wife of Thomas Shadwell.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Shadwell, Anne --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35236:1" rendition="simple:additions"/>
+            <p>ΠΑΝΑΛΕΘΑ πλαστολόγα.</p>
+            <p>Or the DEPLUMATION OF M<hi rend="sup">rs</hi> 
+               <hi>Anne Gibbs,</hi> Of thoſe furtivous perfections whereof She was ſuppoſed a Proprietary, By Envious <hi>Fame.</hi>
+            </p>
+            <p>Deplored by her (once) Admirer, R. W.</p>
+            <q xml:lang="lat">
+               <bibl>Aud. Ep. Lib. 1.</bibl>
+               <l>Forma tibi famam peperit, ſed filia matrem</l>
+               <l>Occidit, formam, non bona fama, bonam.</l>
+            </q>
+            <q>
+               <l>
+                  <hi>Thy beauty got thee fame, but th' daughter ſpoil'd</hi>
+               </l>
+               <l>
+                  <hi>The Mother, thy ill name thy face hath ſoil'd.</hi>
+               </l>
+            </q>
+            <p>Printed Anno Virginis parturientis, 1662.</p>
+            <pb facs="tcp:35236:2" rendition="simple:additions"/>
+            <pb facs="tcp:35236:3"/>
+            <pb facs="tcp:35236:3" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:35236:4"/>
+            <opener>
+               <dateline>From his Umbrello As he ſat Fiſhing, <date>8bris 9. 1662.</date>
+               </dateline>
+            </opener>
+            <pb n="1" facs="tcp:35236:4"/>
+            <head>Πανάλεθα Πλαστολόγα.</head>
+            <lg>
+               <l>Down by thoſe batfull Banks I ſate erewhile,</l>
+               <l>Where Royal <hi>Thames</hi> old <hi>Thorney</hi> did in-iſle.</l>
+               <l>But barr'd his ancient road the amorous youth</l>
+               <l>Ran round about to know the real truth</l>
+               <l>Of what his mother <hi>Iſis</hi> heard, while ſhe</l>
+               <l>Was entertain'd by th' <hi>Gowned Company.</hi>
+               </l>
+               <l>Which was that LUCRECE for both mind and face</l>
+               <l>Surpaſſed all with whom ſhe came in place.</l>
+               <l>So he,<note n="(a)" place="bottom">
+                     <q xml:lang="lat">Flumina ſenſerunt ipſa quid eſſet Amor.</q> 
+                     <bibl>Ovid.</bibl>
+                  </note>
+                  <hi>inflam'd by th' rumor, did repaire</hi>
+               </l>
+               <l>To match hers with his parent's famous
+<note n="(a)" place="bottom">I ſidis <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> à Poetis veteribus uſitatum.</note>haire;</l>
+               <l>But b'ing arrived on that
+<note n="(c)" place="bottom">
+                     <q xml:lang="lat">
+                        <l>Fertilis à multis ſi terra vocata ferendis,</l>
+                        <l>Fertilis eſt, multos nam—tulit.</l>
+                     </q> 
+                     <bibl>Aud.</bibl>
+                  </note>fertil Strand,</l>
+               <l>Where <hi>Elineor's Obelisk</hi> did ſtand,</l>
+               <l>He heard Fame's trumpet ſound a quick retreat,</l>
+               <l>Extenuating what ſhe once proclaim'd ſo great</l>
+               <l>Therefore he would not ſtay, but went before</l>
+               <l>To meet old <hi>Walbrook</hi> his ſly paramour.</l>
+               <l>To whom I heard him in a fume rehearſe</l>
+               <l>What he had heard; but this my <hi>Tragick</hi> verſe</l>
+               <l>Shall ſpeak another paſſion, all this while</l>
+               <l>I was projecting in what mournfull ſtile</l>
+               <pb n="2" facs="tcp:35236:5"/>
+               <l> I ſhould articulate my woes, what <hi>Muſe</hi>
+               </l>
+               <l>For this grave expedition I ſhould chuſe.</l>
+               <l>I call'd the Siſters nine, but could not finde</l>
+               <l>One ſad enough to perſonate my minde.</l>
+               <l>Want of gravity they pretended all,</l>
+               <l>
+                  <hi>Melpomene</hi> was too too <hi>Comicall.</hi>
+               </l>
+               <l>Wherefore I meant my ſilence not to break,</l>
+               <l>But paſs that over which I could not ſpeak.</l>
+               <l>But 'laſs I found this burthen worſe than th' firſt,</l>
+               <l>And that the cask, if 't did not leak, would burſt.</l>
+               <l>So thence I migrated and now reſide</l>
+               <l>'Mongſt <hi>Feck'nhams faunes</hi> by murm'ring <hi>Arro's</hi> ſide,</l>
+               <l>To whom I told my grievance, and he ſought</l>
+               <l>Quick means for to redreſs it, for he brought</l>
+               <l>One of his <hi>Naiads</hi> to me, who had long</l>
+               <l>In ſolitude complained of the wrong</l>
+               <l>Old <hi>Feck'nhams Satyrs</hi> did her ſince his fall,</l>
+               <l>Sculking in caverns 'bout her Maſter's Hall.</l>
+               <l>And after Catalogues of griefs agen,</l>
+               <l>The ſable Nymph thus dictates to my pen.</l>
+            </lg>
+            <lg>
+               <l>Let none henceforth explode that <hi>Sophiſter</hi> who ſaid</l>
+               <l>The Snow was black, to what may not ſenſe be miſſed?</l>
+               <l>What falſities may'n't Demonſtration lead us to,</l>
+               <l>When that great rule of Re<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſon<note n="(a)" place="bottom">A Teutonico <hi>Gar</hi> omnis &amp; <hi>Trude</hi> veritas Significatione Graeco πανάλεθα conſonans.</note>Gartrude proves untrue?</l>
+               <pb n="3" facs="tcp:35236:5"/>
+               <l> Now <hi>Barbara,</hi> once thought abſolute, 'mongſt the reſt,</l>
+               <l>
+                  <hi>Logicians</hi> ſhall account but <hi>Topical</hi> at beſt.</l>
+               <l>Tell me no more of <hi>Claudia</hi> who Poets dream</l>
+               <l>Drew <hi>Cybele</hi>'s image up royal <hi>Tyber</hi>'s Stream.</l>
+               <l>Tell me no more of <hi>Artemiſia,</hi> nor her</l>
+               <l>Who took up water in a porous Colander.</l>
+               <l>
+                  <hi>Britona, Teuca, Penelope, Claelia,</hi>
+               </l>
+               <l>
+                  <hi>Baldraca, Pero, Alceſte, Cornelia,</hi>
+               </l>
+               <l>
+                  <hi>Euridice, Veſta, Evadn', Alcyone,</hi>
+               </l>
+               <l>
+                  <hi>Hypſecratea, Pandora, Rhodigune,</hi>
+               </l>
+               <l>
+                  <hi>Aemilia, Valeria,</hi> whoſe names of yore</l>
+               <l>Were celebrated with ſuch <hi>Eulogyes,</hi> no more</l>
+               <l>Shall be thought worthy ſo great honor, but ſuſpend<g ref="char:EOLhyphen"/>ed</l>
+               <l>Until this <hi>Grand Inqueſt</hi> of chaſtity be ended.</l>
+               <l>For how can vertue by ſuch <hi>Petits</hi> be imbrac'd,</l>
+               <l>When their <hi>ſuperlative</hi> LUCRETIA proves unchaſt?</l>
+               <l>Once did I think her chaſtity as free from ſtain</l>
+               <l>As th' <hi>Chryſtalized</hi> Ice within the frozen Main,</l>
+               <l>Or the <hi>Caſtiſick Emerald,</hi> and did prefer</l>
+               <l>Her Name to the firſt <hi>Rubrick</hi> in my <hi>Kalender.</hi>
+               </l>
+               <l>But now her <hi>Innocence</hi> alaſs is blurr'd by <hi>Fame,</hi>
+               </l>
+               <l>And with a blacker cole I muſt ingroſs her Name.</l>
+            </lg>
+            <lg>
+               <l>This ſaid ſhe flung her ſelf upon the Stream</l>
+               <l>Abruptly leaving this unweildy Theme;</l>
+               <l>And haſts to <hi>Arro</hi>'s Nuptials, who was willing</l>
+               <l>T' eſpouſe fair <hi>Alne,</hi> the Woodland's clearskin'd dil<g ref="char:EOLhyphen"/>ling.</l>
+               <l>Leaving my paſſions t' gether by the ears,</l>
+               <l>And me to ſpeak the reſidue in tears.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
